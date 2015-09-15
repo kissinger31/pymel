@@ -1,0 +1,3 @@
+Test feature file
+
+* This file serves as a file to quickly change stuff once a new commit is needed.
